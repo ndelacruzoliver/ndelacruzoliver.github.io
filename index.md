@@ -67,12 +67,10 @@ Dean's lister
 
 #### Oracle Certified Professional, Java SE 6 Programmer
 Oracle<br>
-Issuing authority: Oracle<br>
 Issued Sep 2013 . No Expiration Date
 
 ### Specialist Certification - ClaimCenter 10.0 Configuration
 Guidewire Software<br>
-Issuing authority: Guidewire Software<br>
 Issued Feb 2020 . No Expiration Date
 
 ---

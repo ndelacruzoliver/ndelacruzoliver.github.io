@@ -1,19 +1,17 @@
-## Portfolio
-
+### Experience
 ---
 
-### Experience
-
 ### 4impact
-Senior Software Developer
-Dates Employed: Jun 2016 – Present
-Location: Philippines
+Senior Software Developer</br>
+Dates Employed: Jun 2016 – Present</br>
+Location: Philippines</br>
 Technologies: Java, Gosu, Guidewire - ClaimCenter, Guidewire - ContactManager, Apache Camel, UNIX, Shell script, SoapUI, Bamboo, BitBucket, Madcow, New Relic, OnBase, Oracle Database
 
+
 ### Twist Resources
-Software Developer
-Dates EmployedSep 2015 – Jun 2016
-Location: Philippines
+Software Developer</br>
+Dates Employed Sep 2015 – Jun 2016</br>
+Location: Philippines</br>
 - Worked on the conversion of static website into responsive website.
 - Worked on the development of dynamic website in which user may modify the page and add web widgets.
 - Works in close collaboration with scrum team members and reports to scrum master and to the director of Development Operations.

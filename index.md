@@ -2,18 +2,24 @@
 
 ---
 
-### Category Name 1 
+### Experience
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### 4impact
+Senior Software Developer
+Dates Employed: Jun 2016 – Present
+Location: Philippines
+Technologies: Java, Gosu, Guidewire - ClaimCenter, Guidewire - ContactManager, Apache Camel, UNIX, Shell script, SoapUI, Bamboo, BitBucket, Madcow, New Relic, OnBase, Oracle Database
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Twist Resources
+Software Developer
+Dates EmployedSep 2015 – Jun 2016
+Location: Philippines
+- Worked on the conversion of static website into responsive website.
+- Worked on the development of dynamic website in which user may modify the page and add web widgets.
+- Works in close collaboration with scrum team members and reports to scrum master and to the director of Development Operations.
+- Study and use the framework provided by the company in developing websites.
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Technologies: ToolTwist, JSP, Amazon S3, Node.js, Mustache, Handlebars, Gradle, Quartz, Spring Batch, JMeter
 
 ---
 
@@ -26,10 +32,3 @@
 - [Project 5 Title](http://example.com/)
 
 ---
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->

@@ -52,12 +52,27 @@ Technologies: Perl, C/C++, Java, MySQL, JUnit, JMeter, HTML, Javascript, JSP, We
 
 ---
 
-### Category Name 2
+### Education
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+Bulacan State University<br>
+BS Information Technology<br>
+2007 – 2011<br>
+
+Activities and Societies: SWITS - Society for the Welfare of Information Technology Students<br>
+Dean's lister
+
+---
+
+### Licenses & Certifications
+
+#### Oracle Certified Professional, Java SE 6 Programmer
+Oracle<br>
+Issuing authority: Oracle<br>
+Issued Sep 2013 . No Expiration Date
+
+### Specialist Certification - ClaimCenter 10.0 Configuration
+Guidewire Software<br>
+Issuing authority: Guidewire Software<br>
+Issued Feb 2020 . No Expiration Date
 
 ---

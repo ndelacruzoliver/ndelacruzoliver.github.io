@@ -54,17 +54,6 @@ Technologies: Perl, C/C++, Java, MySQL, JUnit, JMeter, HTML, Javascript, JSP, We
 
 ---
 
-### Education
-
-Bulacan State University<br>
-BS Information Technology<br>
-2007 – 2011<br>
-
-Activities and Societies: SWITS - Society for the Welfare of Information Technology Students<br>
-Dean's lister
-
----
-
 ### Licenses & Certifications
 
 ### Specialist Certification - ClaimCenter 10.0 Configuration
@@ -74,5 +63,16 @@ Issued Feb 2020 . No Expiration Date
 #### Oracle Certified Professional, Java SE 6 Programmer
 Oracle<br>
 Issued Sep 2013 . No Expiration Date
+
+---
+
+### Education
+
+Bulacan State University<br>
+BS Information Technology<br>
+2007 – 2011<br>
+
+Activities and Societies: SWITS - Society for the Welfare of Information Technology Students<br>
+Dean's lister
 
 ---

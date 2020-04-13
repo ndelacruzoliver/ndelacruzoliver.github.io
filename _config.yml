@@ -2,11 +2,11 @@ title: Oliver N. Dela Cruz # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Software Developer
-  <br><br>
+  <br>
   Address: Bulacan, Central Luzon, Philippines
-  <br><br>
+  <br>
   Email: ndelacruzoliver@gmai.com
-  <br><br>
+  <br>
   <a href="http://linkedin.com/in/ndelacruzoliver/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal

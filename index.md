@@ -8,6 +8,7 @@ Location: Philippines<br>
 - I became certified in Guidewire Software - ClaimCenter 10.0 Configuration.
 - Awarded "Firefighter of the Year" as appreciation for the constant effort in putting out production support issues.
 - Currently working as production support and maintenance.
+
 Technologies: Java, Gosu, Guidewire - ClaimCenter, Guidewire - ContactManager, Apache Camel, UNIX, Shell script, SoapUI, Bamboo, BitBucket, Madcow, New Relic, OnBase, Oracle Database
 
 

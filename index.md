@@ -5,6 +5,9 @@
 Senior Software Developer<br>
 Dates Employed: Jun 2016 – Present<br>
 Location: Philippines<br>
+- I became certified in Guidewire Software - ClaimCenter 10.0 Configuration.
+- Awarded "Firefighter of the Year" as appreciation for the constant effort in putting out production support issues.
+- Currently working as production support and maintenance.
 Technologies: Java, Gosu, Guidewire - ClaimCenter, Guidewire - ContactManager, Apache Camel, UNIX, Shell script, SoapUI, Bamboo, BitBucket, Madcow, New Relic, OnBase, Oracle Database
 
 
@@ -12,10 +15,9 @@ Technologies: Java, Gosu, Guidewire - ClaimCenter, Guidewire - ContactManager, A
 Software Developer<br>
 Dates Employed: Sep 2015 – Jun 2016<br>
 Location: Philippines<br>
-- Worked on the conversion of static website into responsive website.
-- Worked on the development of dynamic website in which user may modify the page and add web widgets.
-- Works in close collaboration with scrum team members and reports to scrum master and to the director of Development Operations.
-- Study and use the framework provided by the company in developing websites.
+- Developed a dynamic website wherein admin users can modify the contents and add web widgets to the page.
+- Transformed existing websites from static to responsive.
+- Worked in close collaboration with scrum team members and reports to scrum master and the director of Development Operations.
 
 Technologies: ToolTwist, JSP, Amazon S3, Node.js, Mustache, Handlebars, Gradle, Quartz, Spring Batch, JMeter
 
@@ -23,11 +25,10 @@ Technologies: ToolTwist, JSP, Amazon S3, Node.js, Mustache, Handlebars, Gradle, 
 Software Engineer<br>
 Dates Employed: Oct 2013 – Sep 2015<br>
 Location: Philippines<br>
-- Worked on the development and unit testing of new core banking system.
-- Worked with the project management group to develop new functionality required by customers.
-- Assisted production support by providing bug fixes for issues reported by customers.
-- Provided input to other groups on the deployment and testing of the software.
-- Worked on the development and maintenance of the existing system used by the client
+- Worked on the development of the new core banking system
+- Supported production by providing bug fixes to the issues reported by the client
+- Collaborated with the project management group to design and develop new features of the system
+- Contributed to the enhancement and maintenance of the existing system
 
 Technologies: Java, JPA, JSF, Spring, PureMVC, Oracle Database, JBehave, Mockito, AngularJS, AJAX, JSON, JQuery, Maven, Git, iReport/JasperReports
 
@@ -36,17 +37,17 @@ Design Engineer II<br>
 Dates Employed: May 2011 – Aug 2013<br>
 Location: Philippines<br>
 Design Engineer II<br>
-- Developed a multi-threaded Java EE Application.
-- Went to Japan to support the system testing and bug fixing of the project.
-- Developed a module that uses a round-robin database tool to display data in graph.
+- Developed a multi-threaded Java EE application.
+- I went to Japan to support system testing and bug fix of the project.
+- Created a module that uses a round-robin database tool to display data in the graph.
 - Ported Java EE application from Java 1.4 to Java 7.
-- Conducted training and mentored junior programmers in Java programming.
+- Conducted Java programming training and mentored junior programmers.
 
 Design Engineer I<br>
+- I became certified in Java programming language.
 - Developed Perl scripts for changing the configuration value of a server.
-- Responsible for the development of Servlet module in a Java EE Application.
-- Supported the unit testing and bug fix of C++ project of other team.
-- Became adept in Java programming language.
+- Handled the development of the Servlet module of the Java EE application.
+- Supported the unit testing and bug fix of the C++ project of other teams.
 
 Technologies: Perl, C/C++, Java, MySQL, JUnit, JMeter, HTML, Javascript, JSP, WebLogic, Apache Tomcat
 
